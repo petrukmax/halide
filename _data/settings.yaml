@@ -8,13 +8,12 @@ config:
   font_stack_system: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 metadata:
   site_url: 'https://halide.netlify.app'
-  site_title: Halide
-  site_subtitle_1: Image Portfolio
-  site_subtitle_2: 'Sometown, CA'
-  site_description: |
-    Halide is a customizable Jamstack portfolio website theme designed for photographers and still image creators. Read the docs at [github.com/danurbanowicz/halide](https://github.com/danurbanowicz/halide)
-  site_email: dan.urbanowicz@gmail.com
-  site_social_url: 'https://github.com/danurbanowicz/halide'
+  site_title: GeekPhoto
+  site_subtitle_1: Портфолио Петрука Максима
+  site_subtitle_2: Санкт-Петербург
+  site_description: ''
+  site_email: ''
+  site_social_url: ''
   site_icon_svg: /assets/uploads/favicon.svg
   site_icon_png: ''
   site_ga4_id: ''
