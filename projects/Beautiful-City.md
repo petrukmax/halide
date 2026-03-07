@@ -1,10 +1,9 @@
 ---
 draft: false
-title: Beautiful City
-description: >
-  Images taken from the Future Cities exhibition held during Paris Fashion Week
-  at the Centre Pompidou.
-year: 2022
+title: Косплей фотограф
+description: |
+  Мои работы за 2024 год
+year: 2024
 images:
   - src: /assets/uploads/photo-1695394979617-f43bbf569deb.avif
     caption: a caption
@@ -14,6 +13,4 @@ date: 2023-11-10T12:28:51.623Z
 position: 4
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
+Спасибо за просмотр 
